@@ -1,0 +1,19 @@
+body {
+    background-image: url("https://beeimg.com/images/m44126182603.png");
+    background-size: cover;
+    background-position: center;
+
+    margin-top: 200px;
+    
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+h1 {
+    color: gold;
+}
+
+.click {
+    margin-top: 20px;
+}
